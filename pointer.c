@@ -17,7 +17,7 @@
 
 // Dynamic Allocation
 // 1. malloc
-// 2. calloc
+// 2. calloc, 0 init
 // 3. realloc
 // 4. free
 // 5. valloc (on UNIX BASED ONLY) (page)

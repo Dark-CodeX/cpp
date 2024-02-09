@@ -19,7 +19,7 @@ int main()
     unsigned int x2;
     unsigned long y2;
     unsigned short a2; // uh
-    unsigned char b2; // uc
+    unsigned char b2;  // uc
     unsigned long long e2;
     unsigned long long int f2;
 
@@ -33,4 +33,6 @@ int main()
     char32_t c2; // int
     char8_t c3;  // char // onwards C++20
     wchar_t c4;  // wide character
+
+    void *p; // universal pointer
 }
